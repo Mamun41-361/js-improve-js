@@ -708,3 +708,4 @@ let student6=new student("md",45,3.23,["bangla","english"]);
 student1.display();
 student2.display();
 student3.display();
+student4.display();
