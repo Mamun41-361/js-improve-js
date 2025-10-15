@@ -692,7 +692,7 @@ this.display= function(){
   document.writeln("name= "+this.name +"<br>");
   document.writeln("age= " + this.age +"<br>");
   document.writeln("cgpa= "+ this.cgpa+"<br>");
-  document.writeln("lang= " + this.lang + "<br>");
+  document.writeln("lang= " + this.lang + "<br> ");
 }
 
 
