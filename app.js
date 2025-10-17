@@ -711,3 +711,5 @@ student2.display();
 student3.display();
 student4.display();
 student5.display();
+
+let number1=parseInt(prompt("fast number"));
