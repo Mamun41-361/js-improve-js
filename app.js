@@ -696,6 +696,7 @@ this.display= function(){
 }
 
 
+
 }
 
 let student1=new student("riyan",45,3.23,["bangla","english"]);
