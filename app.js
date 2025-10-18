@@ -717,3 +717,6 @@ let number2=parseInt(prompt("second number"));
 
 let maxnumber=Math.max(number1,number2);
 document.writeln("max number= "+maxnumber);
+
+
+
