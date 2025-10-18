@@ -719,7 +719,8 @@ let maxnumber=Math.max(number1,number2);
 document.writeln("max number= "+maxnumber);
 
 */
-
+ let lost=0;
+ let win=0;
   
 for(let x=1; x<=5; x++){
 
@@ -729,11 +730,15 @@ for(let x=1; x<=5; x++){
 
 if(guessnumber==random){
   console.log("win");
+   win++;
 
 }
 else{
   console.log("lost"+ random);
+  lost++;
 }
 
 
 }
+document.writeln("Total lost = "+lost);
+document.writeln("Total win = ")
