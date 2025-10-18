@@ -745,4 +745,7 @@ document.writeln("Total win = " +win);
 */
 
 let month = Date. getMonth();
-document.writeln(month);
+console.log(month);
+
+var curDay = date .getDay();
+console.log(curDay);
