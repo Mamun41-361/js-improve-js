@@ -680,7 +680,7 @@ document.writeln(student)
 
 */
 /*_____________________________object \ construct & function use student details_____*/
-
+/*
 function student(name,age,cgpa,lang){
 
 this.name=name;
@@ -718,7 +718,7 @@ let number2=parseInt(prompt("second number"));
 let maxnumber=Math.max(number1,number2);
 document.writeln("max number= "+maxnumber);
 
-
+*/
 
   
 for(let x=1; x<=5; x++){
@@ -727,6 +727,7 @@ for(let x=1; x<=5; x++){
 
   let random=Math.floor(Math.random()*5)+1;
 
-  
+
+
 
 }
