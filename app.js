@@ -720,3 +720,13 @@ document.writeln("max number= "+maxnumber);
 
 
 
+  
+for(let x=1; x<=5; x++){
+
+  let guessnumber=parseInt(prompt("inter a number 1 to 5"));
+
+  let random=Math.floor(Math.random()*5)+1;
+
+  
+
+}
