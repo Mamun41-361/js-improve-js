@@ -744,5 +744,3 @@ document.writeln("Total lost = "+lost);
 document.writeln("Total win = " +win);
 */
 
-let dates =date.getFullYear();
-document.writeln(date);
