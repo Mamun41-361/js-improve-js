@@ -718,10 +718,10 @@ let number2=parseInt(prompt("second number"));
 let maxnumber=Math.max(number1,number2);
 document.writeln("max number= "+maxnumber);
 
-
+*/
  let lost=0;
  let win=0;
-  */
+
 for(let x=1; x<=5; x++){
 
   let guessnumber=parseInt(prompt("inter a number 1 to 5"));
