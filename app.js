@@ -741,4 +741,4 @@ else{
 
 }
 document.writeln("Total lost = "+lost);
-document.writeln("Total win = " +)
+document.writeln("Total win = " +win);
