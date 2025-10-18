@@ -727,7 +727,13 @@ for(let x=1; x<=5; x++){
 
   let random=Math.floor(Math.random()*5)+1;
 
+if(guessnumber==random){
+  console.log("win");
 
+}
+else{
+  console.log("lost"+ random);
+}
 
 
 }
