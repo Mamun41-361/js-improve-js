@@ -718,7 +718,7 @@ let number2=parseInt(prompt("second number"));
 let maxnumber=Math.max(number1,number2);
 document.writeln("max number= "+maxnumber);
 
-*/
+
  let lost=0;
  let win=0;
 
@@ -742,3 +742,7 @@ else{
 }
 document.writeln("Total lost = "+lost);
 document.writeln("Total win = " +win);
+*/
+
+let date=date.getFullYear();
+document.writeln(date);
