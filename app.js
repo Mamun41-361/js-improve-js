@@ -744,3 +744,5 @@ document.writeln("Total lost = "+lost);
 document.writeln("Total win = " +win);
 */
 
+let month = Date. getMonth();
+document.writeln(month);
