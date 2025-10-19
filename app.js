@@ -748,5 +748,5 @@ let month = date.getMonth();
 console.log(month)
 
 
-var curDay = date.getDay();
+var curDay = date.getDay() ;
 document.writeln(curDay)
