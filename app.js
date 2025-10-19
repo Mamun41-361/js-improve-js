@@ -750,3 +750,5 @@ console.log(month)
 
 var curDay = date.getDay();
 document.writeln(curDay)
+
+let fddf= date.getMonth();
