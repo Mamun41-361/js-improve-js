@@ -752,3 +752,4 @@ var curDay = date.getDay();
 document.writeln(curDay)
 
 let fddf= date.getMonth();
+document.writeln(fddf);
